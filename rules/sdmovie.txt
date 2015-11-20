@@ -27,17 +27,13 @@ All information about these release types can be found [here]. The following is 
 
 ### Good Quality Rips
 
- * [DVDRip] &rarr; They are official DVDRip sized ~480p(height). This is the best quality allowed for SDMovies
- * [R5] &rarr; Region 5 rips.
- * [DDC] &rarr; Digital Distribution Copy(Similar to R5; but a little lower quality)
- * [PPVRip] &rarr; Pay-per-view rip.
+* [DVDRip / DVDRip 720p] → They are official DVDRip sized ~480p(height). This is the best quality allowed for SDMovies
 
 ### OK Quality Rips
 
- * [CAMRip] &rarr; Camera recorded rips.
- * [VODRip] &rarr; Video-on-Demand
- * [TSRip] &rarr; TeleSync version movies. TeleCine included with this quality too.
- * [WorkPrint] &rarr; Very rare. Only a few movies released with this rip.
+* [WEBRip / WEBRip 720p] or [HDRip / HDRip 720p] → They are the best possible quality available before DVDRips. They usually come with hardcoded chinese / korean / japanes Subs
+* [DVDSCR / DVDSCR 720p] → Usually come within a few days of release.
+* [WorkPrint / Screeners] → Very rare. Only a few movies released with this rip.
 
 
 ## FORMAT
@@ -56,14 +52,17 @@ The following format is always followed for all entries in movie categories.
 
 
 ## NOTES
-
-01. AT MOST 2 entries for the same movie are allowed in this category. One is for *Good quality rips* and another for *OK quality rips*. Ask the actual moderator to edit the entry for you, if you're adding another print for the same movie.
-02. Give spaces after each parameter or info or tag. The genres should each be tagged separately like "[Action] [Thriller]" and NOT "[Action/Thriller]".
-03. IMDb links are mandatory. Do NOT use url shortners for IMDb links. If no IMDb link can be found, search for wikipedia page, failing which you can add it without link.
-04. Name your file/directory with same name as movie, such as: "The Moth Diaries (2012).avi"
-05. ALWAYS use parenthesis for year.
-06. Dont add CAM or SCAM version, instead add only DVDScr (2CD) and DVDScr 720p (if available) to this category. Prefer adding a 2 CD version instead of 1 CD version for DVDScr or WEBRip or DVDRip in this category.
-
+ 
+1. AT MOST 2 entries for the same movie are allowed in this category. One is for Good quality rips and another for OK quality rips. Ask the actual moderator to edit the entry for you, if you're adding another print for the same movie.
+2. Give spaces after each parameter or info or tag. The genres should each be tagged separately like "[Action] [Thriller]" and NOT "[Action/Thriller]".
+3. IMDb links are mandatory. Do NOT use url shortners for IMDb links. If no IMDb link can be found, search for wikipedia page, failing which you can add it without link.
+4. Name your file/directory with same name as movie, such as: "The Moth Diaries (2012).avi"
+5. ALWAYS use parenthesis for year.
+6. Add 1 CD version only if a 2 CD version isn't available in this category.
+7. Don't add HDRip ripped from WEB-DL as WEB-DL comes within hours of such HDRip.
+8. Verify the the quality of the file before adding. Sometimes p2p releasers call it a webrip when it is actually a CAM etc., Try not to add something with CAM audio.
+9. FOR BOLLYWOOD MOVIES ONLY: Add DVDSCR 720p only if DVDSCR is not released.Add PDVDRip only if no version of DVDSCR is available
 
   [1]: #general
   [here]: https://en.wikipedia.org/wiki/Pirated_movie_release_types
+
