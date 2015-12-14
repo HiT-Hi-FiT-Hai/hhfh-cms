@@ -1,0 +1,8 @@
+RewriteEngine On
+
+RewriteCond %{THE_REQUEST} ^GET\ /paste\.php\?id=(\d+) [NC]
+RewriteRule ^paste\.php$ /paste/%1/ [R=301,L,QSD]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^paste/(\d+)/?$ /paste.php?id=$1 [L]
